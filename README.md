@@ -1,7 +1,4 @@
-<!-- BANNER IMAGE -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1602524813510-5fa6a9f5f833?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80" alt="Banner" width="100%">
-</p>
+
 
 <!-- GRADIENT HEADER -->
 <h1 align="center" style="background: linear-gradient(to right, #00c6ff, #0072ff);
