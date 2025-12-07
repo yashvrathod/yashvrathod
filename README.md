@@ -1,135 +1,267 @@
-<!-- HERO SECTION -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Yash+Rathod;Full-Stack+Developer+%7C+AI+Engineer+%7C+Maker;I+build+with+React%2C+Next.js%2C+CUDA%2C+and+IoT" alt="Typing SVG" />
-</h1>
+# ⚡ Yash Rathod
 
-<p align="center">
-  <a href="https://github.com/yashvrathod">
-    <img src="https://komarev.com/ghpvc/?username=yashvrathod&label=Visitors&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  &nbsp;•&nbsp;
-  <a href="mailto:yashvrathod15@gmail.com">Contact Me</a>
-</p>
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   ██╗   ██╗ █████╗ ███████╗██╗  ██╗    ██████╗  █████╗ ████████╗██╗  ██╗ ║
+║   ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║    ██╔══██╗██╔══██╗╚══██╔══╝██║  ██║ ║
+║    ╚████╔╝ ███████║███████╗███████║    ██████╔╝███████║   ██║   ███████║ ║
+║     ╚██╔╝  ██╔══██║╚════██║██╔══██║    ██╔══██╗██╔══██║   ██║   ██╔══██║ ║
+║      ██║   ██║  ██║███████║██║  ██║    ██║  ██║██║  ██║   ██║   ██║  ██║ ║
+║      ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ║
+║                                                                           ║
+║               Full-Stack Alchemist • AI Tinkerer • Hardware Hacker       ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
-<!-- AESTHETIC GIF -->
-<p align="center">
-  <img src="https://gifdb.com/images/high/kitten-laptop-coding-hicxox3kgw3kew71.webp" width="350" alt="coding cat" />
-</p>
+<div align="center">
 
----
+### 🎯 Current Mission: *Turning caffeine into code since 2020*
 
-## 🚀 About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+the+future+with+React+%E2%9A%9B%EF%B8%8F+Next.js+%F0%9F%9A%80+CUDA+%E2%9A%A1;Where+AI+meets+IoT+meets+questionable+life+choices;Warning%3A+Profile+may+contain+excessive+experimentation)](https://git.io/typing-svg)
 
-- ⚡ Passionate about building end-to-end products that blend **web, AI, hardware, and GPUs**  
-- 🧠 Currently obsessed with **CUDA for AI acceleration**, **Next.js 14**, and **deep learning for speech & vision**  
-- 🛠 Love turning ideas into prototypes using **ESP32, Arduino, and cloud-connected dashboards**  
-- 📦 My repos are my **lab** – expect experiments, side projects, and a lot of learning-by-building
+</div>
 
 ---
 
-## 🔭 Currently Building
+## 🧬 DNA Sequence
 
-- 🚀 AI-powered apps with **Next.js + Python backends**  
-- 🤖 Smart IoT systems with **ESP32 / Arduino + real-time dashboards**  
-- ⚙️ GPU-accelerated experiments using **CUDA** for ML and numerical workloads  
-
----
-
-## 🌱 Learning & Exploring
-
-- ⚙️ **CUDA programming** for parallel compute and AI workloads  
-- 🧬 **Deep learning architectures** for speech, vision, and multimodal tasks  
-- 🧩 **Advanced Next.js 14** patterns (Server Actions, App Router, streaming)  
-- 🔐 **System-level security** and OS authentication internals  
-
----
-
-## 💬 Ask Me About
-
-- 🧩 Frontend: **React, Next.js, GSAP, Tailwind, Three.js**  
-- 🎮 Interactive UI: micro-interactions, scroll-based animations, 3D experiences  
-- 🌐 IoT: **ESP32, Arduino, Blynk**, cloud + mobile app integrations  
-- 🤖 AI: going from **idea → dataset → model → API → production UI**  
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yashvrathod" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/_yash_rathod7" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/yashvrathod" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" alt="HackerRank" />
-  </a>
-  &nbsp;
-  <a href="https://www.leetcode.com/yash_rathod" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" alt="LeetCode" />
-  </a>
-</p>
+```yaml
+human:
+  name: "Yash Rathod"
+  role: ["Full-Stack Developer", "AI Engineer", "IoT Enthusiast"]
+  location: "India 🇮🇳"
+  languages: ["English", "Hindi", "JavaScript", "Python", "C++"]
+  
+current_state:
+  status: "Building, Breaking, Learning, Repeat"
+  focus: ["CUDA Programming", "Deep Learning", "Next.js 14", "ESP32 Magic"]
+  coffee_consumed: "∞"
+  bugs_fixed_today: 42
+  
+skills:
+  frontend: ["React", "Next.js 14", "Three.js", "GSAP", "Tailwind"]
+  backend: ["Node.js", "Express", "Django", "Flask", "PostgreSQL"]
+  ai_ml: ["PyTorch", "TensorFlow", "CUDA", "Computer Vision", "NLP"]
+  hardware: ["ESP32", "Arduino", "Raspberry Pi", "IoT Systems"]
+  tools: ["Docker", "Git", "Linux", "Firebase", "Vercel"]
+  
+philosophy: |
+  "Code is poetry written in logic,
+   Bugs are just unexpected features,
+   And every error message is a learning opportunity."
+```
 
 ---
 
-## 🧰 Tech Stack
+## 🎨 The Lab: What I'm Cooking
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css,tailwind" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,svelte,flutter,django,flask,express" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,arduino" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,firebase,mongodb,mysql,postgresql" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
----
+### 🔬 Experiments in Progress
 
-## 🏆 Achievements & Trophies
+```python
+class CurrentProjects:
+    def __init__(self):
+        self.ai_apps = "Next.js + Python ML APIs"
+        self.iot_systems = "ESP32 + Real-time Dashboards"
+        self.gpu_magic = "CUDA Acceleration Experiments"
+        self.learning = "Always Everything"
+    
+    def status(self):
+        return "80% working, 20% debugging, 100% learning"
+```
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashvrathod&theme=algolia&margin-w=10&row=2&column=3" alt="Trophies" />
-</p>
+</td>
+<td width="50%">
 
----
+### 🎯 Quest Log
 
-## 📊 GitHub Stats & Activity
+- [x] Build production-ready web apps
+- [x] Deploy ML models to the cloud
+- [x] Make LEDs blink with purpose
+- [ ] Master CUDA parallel programming
+- [ ] Build AGI (kidding... or am I?)
+- [ ] Sleep (optional quest)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashvrathod&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvrathod&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashvrathod&theme=github-compact" alt="Activity Graph" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Fun Fact
+## 🛠️ Arsenal
 
-<blockquote align="center" style="background: #0f172a; color: #e5e7eb; padding: 20px; border-radius: 12px; border-left: 5px solid #38bdf8;">
-  ⚡ <strong>Fun Fact:</strong> Most of my projects start as “What if I try this?” and end up as full-stack experiments with hardware, AI, and a lot of console.logs.
-</blockquote>
+<div align="center">
+
+### ⚔️ Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 🤖 AI & Hardware
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+### 🗄️ Database & DevOps
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-## 📫 Reach Out
+## 📊 Battle Statistics
 
-- 📧 Email: <a href="mailto:yashvrathod15@gmail.com">yashvrathod15@gmail.com</a>  
-- 💡 Open to: collaborations, cool ideas, and building weird-but-useful things together
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashvrathod&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashvrathod&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7" />
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashvrathod&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Drop+a+star+⭐+on+repos+you+like;Let%E2%80%99s+build+something+awesome+%F0%9F%94%A5" alt="Thanks" />
-</p>
+## 🏆 Achievement Unlocked
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=yashvrathod&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 💡 The Philosophy
+
+> **"Code is like humor. When you have to explain it, it's bad."** — Cory House
+
+<div align="center">
+
+```
+   ╭─────────────────────────────────────────────────╮
+   │                                                 │
+   │  My projects usually start as:                  │
+   │  "What if I try this...?"                       │
+   │                                                 │
+   │  And end up as:                                 │
+   │  Full-stack apps + Hardware + AI                │
+   │  + Hundreds of console.logs                     │
+   │  + 3AM debugging sessions                       │
+   │  + One very confused cat                        │
+   │                                                 │
+   ╰─────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+## 🌊 Activity Waves
+
+<!--START_SECTION:activity-->
+<!-- This section is auto-updated by GitHub Actions -->
+<!--END_SECTION:activity-->
+
+<div align="center">
+
+### 📈 Contribution Heatmap
+
+<img src="https://ghchart.rshah.org/00F7F7/yashvrathod" alt="Contribution Chart" />
+
+</div>
+
+---
+
+## 🎮 Fun Stats
+
+<div align="center">
+
+| Metric | Value | Status |
+|--------|-------|--------|
+| ☕ Coffee Consumed | ∞ | Critical |
+| 🐛 Bugs Created | 999+ | Expert |
+| 🔧 Bugs Fixed | 998+ | Getting There |
+| 💡 Ideas per Day | 47 | Unstoppable |
+| 😴 Sleep Hours | 4-6 | Negotiable |
+| 🎯 Projects Completed | Too Many | Still Counting |
+
+</div>
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashvrathod)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_yash_rathod7)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yashvrathod)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/yash_rathod)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashvrathod15@gmail.com)
+
+### 💬 Let's Build Something Amazing
+
+```javascript
+const collaborate = {
+  interests: ["Web Dev", "AI/ML", "IoT", "Weird Ideas"],
+  looking_for: ["Cool Projects", "Learning Buddies", "Innovation Partners"],
+  promise: "I bring code, creativity, and probably too much enthusiasm"
+};
+
+// If this resonates with you, let's connect! 🚀
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎭 Profile Views & Vibes
+
+![Visitor Count](https://profile-counter.glitch.me/yashvrathod/count.svg)
+
+```
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║  Thanks for visiting my digital workshop! 🛠️     ║
+║                                                  ║
+║  If you like what you see:                       ║
+║  ⭐ Star some repos                              ║
+║  🔀 Fork and experiment                          ║
+║  💬 Let's chat about ideas                       ║
+║                                                  ║
+║  Remember: The best code is code that works,     ║
+║  the best project is the one you finish,         ║
+║  and the best developer is one who never         ║
+║  stops learning. 🚀                              ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Let's%20Code%20The%20Future&fontSize=30&fontAlignY=70&animation=twinkling" />
+
+</div>
