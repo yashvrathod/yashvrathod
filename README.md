@@ -6,11 +6,6 @@ I build web applications, developer tools, and occasionally things that probably
 
 Currently exploring **backend engineering, DSA, system design, and AI-powered products.**
 
-### Building
-
-* **RoleFit** — AI-powered resume & job matching
-* **Yit** — Git built from scratch in Java
-
 ### Stack
 
 `Java` `TypeScript` `React` `Next.js` `Node.js` `PostgreSQL` `Prisma`
